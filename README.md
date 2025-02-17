@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Number System Converter
 
 ## Overview
@@ -40,8 +39,3 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 ## Contact
 For any issues or suggestions, please reach out to [harisirikonda22@gmail.com](harisirikonda22@gmail.com).
-=======
-## readme
-
-![image alt](https://github.com/HariSirikonda/Number-Conversions-GUI-using-tkinter/blob/main/WhatsApp%20Image%202025-02-17%20at%2017.28.32_4065dd43.jpg?raw=true)
->>>>>>> 9762c7c4b1316f0d98b9d7456c957ec20bac92e4
